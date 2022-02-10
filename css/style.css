@@ -627,4 +627,6 @@ li label {
   padding-left: 3px;
 }
 
-
+#colorform {
+  display: inline;
+}
